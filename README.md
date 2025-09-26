@@ -13,7 +13,7 @@
 
 · Valorizar a mão de obra especializada de pequenos prestadores de serviços.
 
-· Aumentar a confiabilidade e a transparência no processo de contratação por meio de avaliações, histórico de serviços e métricas de qualidade.
+· Aumentar a confiabilidade e a transparência no processo de contratação por meio de avaliações, histórico de serviços.
 
 # ➜ Funcionalidades 🚀
 
