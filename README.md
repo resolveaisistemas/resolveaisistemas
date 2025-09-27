@@ -1,17 +1,27 @@
-# ResolveAi - Plataforma Digital para Intermediação de Serviços Residenciais 🛠️🏠
+# 🛠️🏠 **RESOLVEAI - PLATAFORMA DIGITAL PARA INTERMEDIAÇÃO DE SERVIÇOS RESIDENCIAIS**
 
-· O ResolveAi é uma plataforma digital que conecta clientes a prestadores de serviços residenciais, como reparos, manutenções hidráulicas, elétricas e jardinagem. Seu objetivo é facilitar a contratação desses serviços, oferecendo um ambiente seguro, acessível e ágil para que os clientes encontrem profissionais qualificados rapidamente. 
+**ResolveAi** é uma plataforma digital que conecta clientes a prestadores de serviços residenciais, como **reparos, manutenções hidráulicas, elétricas, jardinagem**, entre outros. O objetivo é facilitar a contratação desses serviços por meio de um ambiente **seguro, acessível e eficiente**.
 
-# ➜ Objetivos Estratégicos 🎯
-· Facilitar a conexão entre demanda e oferta de serviços residenciais. 
-· Promover a empregabilidade local, criando novas oportunidades de trabalho.
-· Valorizar a mão de obra especializada de pequenos prestadores de serviços. · Aumentar a confiabilidade e a transparência no processo de contratação por meio de avaliações, histórico de serviços.
+---
 
-# ➜ Funcionalidades 🚀 
-· Busca de Serviços: Encontre profissionais qualificados para reparos, manutenções hidráulicas, elétricas, jardinagem e mais. 
-· Avaliações e Feedback: Veja avaliações de outros usuários e a qualidade do serviço prestado. 
-· Histórico de Serviços: Acompanhe o histórico dos prestadores de serviços, com detalhes de trabalhos anteriores. 
-· Segurança: Ambiente seguro, com comunicação entre cliente e prestador dentro da plataforma. me ajude a arrumar com o msm titulo ou emoji eu so quero que deixe menos repetitivo
+## 🎯 **OBJETIVOS ESTRATÉGICOS**
+
+- **Facilitar** a conexão entre clientes e prestadores de serviços residenciais.  
+- **Fomentar** a geração de renda e oportunidades para profissionais autônomos e microempreendedores.  
+- **Valorizar** a mão de obra especializada local.  
+- **Garantir** transparência e confiança por meio de **avaliações e histórico de serviços**.
+
+---
+
+## 🚀 **FUNCIONALIDADES**
+
+-  **Busca de Serviços:** Encontre profissionais qualificados para diferentes tipos de manutenção residencial.  
+-  **Avaliações e Feedback:** Consulte experiências de outros usuários para tomar decisões mais seguras.  
+-  **Histórico de Serviços:** Acompanhe os trabalhos já realizados por cada prestador.  
+-  **Ambiente Seguro:** Comunicação protegida dentro da própria plataforma entre cliente e profissional.
+
+---
+
 
 # 🤖 Linguagens e Tecnologias
 
