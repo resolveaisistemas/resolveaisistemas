@@ -1,28 +1,17 @@
+# ResolveAi - Plataforma Digital para Intermediação de Serviços Residenciais 🛠️🏠
 
-ResolveAi - Plataforma Digital para Intermediação de Serviços Residenciais 🛠️🏠
+· O ResolveAi é uma plataforma digital que conecta clientes a prestadores de serviços residenciais, como reparos, manutenções hidráulicas, elétricas e jardinagem. Seu objetivo é facilitar a contratação desses serviços, oferecendo um ambiente seguro, acessível e ágil para que os clientes encontrem profissionais qualificados rapidamente. 
 
-O ResolveAi é uma plataforma digital que conecta clientes a profissionais especializados em serviços residenciais, como reparos, manutenções hidráulicas, elétricas e jardinagem. A proposta é tornar a contratação desses serviços mais simples, rápida e segura, promovendo praticidade para quem busca ajuda em casa e oportunidades para quem presta o serviço.
+# ➜ Objetivos Estratégicos 🎯
+· Facilitar a conexão entre demanda e oferta de serviços residenciais. 
+· Promover a empregabilidade local, criando novas oportunidades de trabalho.
+· Valorizar a mão de obra especializada de pequenos prestadores de serviços. · Aumentar a confiabilidade e a transparência no processo de contratação por meio de avaliações, histórico de serviços.
 
-➜ Objetivos Estratégicos 🎯
-
-· Conectar, de forma ágil, quem precisa de serviços residenciais com quem oferece.
-
-· Estimular a geração de renda e a empregabilidade local.
-
-· Valorizar profissionais autônomos e microempreendedores qualificados.
-
-· Tornar o processo de contratação mais confiável por meio de avaliações e histórico de serviços.
-
-➜ Funcionalidades 🚀
-
-· Busca Inteligente: Encontre facilmente profissionais para diversas necessidades residenciais.
-
-· Avaliações e Comentários: Consulte a opinião de outros usuários sobre os prestadores.
-
-· Perfil Profissional: Veja o histórico de serviços realizados por cada prestador.
-
-· Ambiente Seguro: Toda a comunicação entre cliente e profissional ocorre dentro da plataforma, garantindo mais segurança e controle.
-
+# ➜ Funcionalidades 🚀 
+· Busca de Serviços: Encontre profissionais qualificados para reparos, manutenções hidráulicas, elétricas, jardinagem e mais. 
+· Avaliações e Feedback: Veja avaliações de outros usuários e a qualidade do serviço prestado. 
+· Histórico de Serviços: Acompanhe o histórico dos prestadores de serviços, com detalhes de trabalhos anteriores. 
+· Segurança: Ambiente seguro, com comunicação entre cliente e prestador dentro da plataforma. me ajude a arrumar com o msm titulo ou emoji eu so quero que deixe menos repetitivo
 
 # 🤖 Linguagens e Tecnologias
 
