@@ -1,6 +1,6 @@
 # 🛠️🏠 **RESOLVEAI - PLATAFORMA DIGITAL PARA INTERMEDIAÇÃO DE SERVIÇOS RESIDENCIAIS**
 
-**ResolveAi** é uma plataforma digital que conecta clientes a prestadores de serviços residenciais, como **reparos, manutenções hidráulicas e elétricas**, entre outros. O objetivo é facilitar a contratação desses serviços por meio de um ambiente **seguro, acessível e eficiente**.
+**ResolveAi** é uma plataforma digital que conecta clientes a prestadores de serviços residenciais, como **reparos, manutenções hidráulicas e elétricas**. O objetivo é facilitar a contratação desses serviços por meio de um ambiente **seguro, acessível e eficiente**.
 
 ---
 
